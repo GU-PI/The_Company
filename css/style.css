@@ -1345,7 +1345,7 @@ dd {
   left: 0;
   width: 25px;
   height: 25px;
-  background: transparent url(/img/checkbox.png) no-repeat center center/contain;
+  background: transparent url(../img/checkbox.png) no-repeat center center/contain;
   -webkit-transition: opacity 0.3s ease 0s;
   transition: opacity 0.3s ease 0s;
   opacity: 0;
